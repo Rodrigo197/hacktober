@@ -6,6 +6,7 @@ def suma(x,y):
 def resta(x,y):
   """Esta funcion hace una resta"""
    res=x-y
+   print(Funcion Resta)
    return res
 
 
